@@ -19,7 +19,7 @@ export const Contactame = () => {
           </div>
           <div className='contact_elements'>
             <p className='element'>curriculum vitae :</p>
-            <a class="link_cv" href="https://drive.google.com/file/d/1MjWWcZ5tzUZlr6uX6gmdKFZIdJRwRBXq/view?usp=sharing" target="_blank">
+            <a className="link_cv" href="https://drive.google.com/file/d/1MjWWcZ5tzUZlr6uX6gmdKFZIdJRwRBXq/view?usp=sharing" target="_blank">
               <p className='element'>download</p>
             </a>
             
