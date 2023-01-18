@@ -100,7 +100,7 @@ a:link {
     background-image: url('../assets/circuits.jpg');
     background-repeat: repeat;
     background-position: bottom right;
-    height: 1900px;
+    height: 2400px;
 }
 
 
@@ -176,7 +176,8 @@ a:link {
     }
 
     p{
-        font-size: 1rem;
+        font-size: 1.2rem;
+        margin: 15px 0px;
     }
 
     .soy_div {
