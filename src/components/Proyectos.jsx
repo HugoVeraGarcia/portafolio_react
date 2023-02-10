@@ -46,8 +46,8 @@ export const Proyectos = () => {
           </div>
 
           <div>
-            <p className='title' >Django App</p>
-            <p className='text'>Aplicación que proporciona datos del clima en tu ubicación. Debes dar permiso para leer tu ubicación y te entregará los datos: temperatura (°C | °F), humedad, velocidad del viento y presión. Cuenta con un conversor de °C y °F. Además por cada condición climática muestra una imagen de fondo que lo representa.</p>
+            <p className='title' >WEATHER App</p>
+            <p className='text'>La aplicación desarrollada con Python y Django es una solución fácil y eficiente para administrar y organizar tareas. Con una interfaz intuitiva y fácil de usar, nuestra aplicación te permite crear, editar, eliminar y ver tareas de manera rápida y sencilla. Esta aplicación es perfecta para personas que buscan una forma organizada de administrar sus tareas diarias, ya sea en el trabajo o en la vida personal.</p>
           </div>
 
           <div> 
@@ -57,8 +57,8 @@ export const Proyectos = () => {
           </div>
 
           <div>
-            <p className='title' >WEATHER App</p>
-            <p className='text'>La aplicación desarrollada con Python y Django es una solución fácil y eficiente para administrar y organizar tareas. Con una interfaz intuitiva y fácil de usar, nuestra aplicación te permite crear, editar, eliminar y ver tareas de manera rápida y sencilla. Esta aplicación es perfecta para personas que buscan una forma organizada de administrar sus tareas diarias, ya sea en el trabajo o en la vida personal.</p>
+            <p className='title' >Django App</p>
+            <p className='text'>Aplicación que proporciona datos del clima en tu ubicación. Debes dar permiso para leer tu ubicación y te entregará los datos: temperatura (°C | °F), humedad, velocidad del viento y presión. Cuenta con un conversor de °C y °F. Además por cada condición climática muestra una imagen de fondo que lo representa.</p>
           </div>
 
         </div>
